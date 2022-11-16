@@ -1,0 +1,41 @@
+.nav-link{
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    padding: 15px 30px;
+    text-transform: uppercase;
+    border-radius: 0px 0px 20px 20px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.card-body {
+    background-image: url('/images/greeeen2.png');
+    
+  }
+ .image-fluid {
+    max-width: 196%;
+    height: auto
+ }
+    .masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('/images/our-mybyk-min.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.of {
+    object-fit: cover;
+    /*
+    object-fit: scale-down;
+    object-fit: contain;
+    object-fit: fit;
+    */
+}
+
+
+  
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
